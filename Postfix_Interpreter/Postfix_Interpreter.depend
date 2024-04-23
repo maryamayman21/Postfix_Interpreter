@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1704282803 source:c:\users\mariam\onedrive\documents\onenote notebooks\my notebook\postfix_interpreter\main.cpp
+	<iostream>
+	"stack_array.h"
+	"SymbolTable.h"
+
+1704241247 c:\users\mariam\onedrive\documents\onenote notebooks\my notebook\postfix_interpreter\stack_array.h
+	<iostream>
+
+1704241247 source:c:\users\mariam\onedrive\documents\onenote notebooks\my notebook\postfix_interpreter\src\stack_array.cpp
+	"stack_array.h"
+	<iostream>
+
+1704242144 c:\users\mariam\onedrive\documents\onenote notebooks\my notebook\postfix_interpreter\symboltable.h
+	<iostream>
+
+1704242004 source:c:\users\mariam\onedrive\documents\onenote notebooks\my notebook\postfix_interpreter\src\symboltable.cpp
+	"SymbolTable.h"
+	<iostream>
+	<string>
+
+1704300192 source:c:\users\mohamed.nader.bass\desktop\psotfix updated by m\postfix_interpreter\src\stack_array.cpp
+	"stack_array.h"
+	<iostream>
+
+1704300290 c:\users\mohamed.nader.bass\desktop\psotfix updated by m\postfix_interpreter\stack_array.h
+	<iostream>
+	<SymbolTable.h>
+
+1704301618 source:c:\users\mohamed.nader.bass\desktop\psotfix updated by m\postfix_interpreter\src\symboltable.cpp
+	"SymbolTable.h"
+	<iostream>
+	<string>
+
+1704304881 c:\users\mohamed.nader.bass\desktop\psotfix updated by m\postfix_interpreter\symboltable.h
+	<iostream>
+
+1704378987 source:c:\users\mohamed.nader.bass\desktop\psotfix updated by m\postfix_interpreter\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"StackArray.h"
+	"SymbolTable.h"
+
+1704307412 source:c:\users\mohamed.nader.bass\desktop\psotfix updated by m\postfix_interpreter\src\stackarray.cpp
+	"StackArray.h"
+	<iostream>
+
+1704304832 c:\users\mohamed.nader.bass\desktop\psotfix updated by m\postfix_interpreter\stackarray.h
+	<iostream>
+	<SymbolTable.h>
+
+1704384269 source:c:\users\mariam\onedrive\documents\postfix_interpreter final version\postfix_interpreter\src\stackarray.cpp
+	"StackArray.h"
+	<iostream>
+
+1704384268 c:\users\mariam\onedrive\documents\postfix_interpreter final version\postfix_interpreter\stackarray.h
+	<iostream>
+	<SymbolTable.h>
+
+1704384268 c:\users\mariam\onedrive\documents\postfix_interpreter final version\postfix_interpreter\symboltable.h
+	<iostream>
+
+1704384269 source:c:\users\mariam\onedrive\documents\postfix_interpreter final version\postfix_interpreter\src\symboltable.cpp
+	"SymbolTable.h"
+	<iostream>
+	<string>
+
+1704386721 source:c:\users\mariam\onedrive\documents\postfix_interpreter final version\postfix_interpreter\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"StackArray.h"
+	"SymbolTable.h"
+
+1704388764 source:c:\users\mariam\onedrive\documents\postfix_interpreter final version (2)\postfix_interpreter final version\postfix_interpreter\src\stackarray.cpp
+	"StackArray.h"
+	<iostream>
+
+1704384270 c:\users\mariam\onedrive\documents\postfix_interpreter final version (2)\postfix_interpreter final version\postfix_interpreter\stackarray.h
+	<iostream>
+	<SymbolTable.h>
+
+1704384270 c:\users\mariam\onedrive\documents\postfix_interpreter final version (2)\postfix_interpreter final version\postfix_interpreter\symboltable.h
+	<iostream>
+
+1704388746 source:c:\users\mariam\onedrive\documents\postfix_interpreter final version (2)\postfix_interpreter final version\postfix_interpreter\src\symboltable.cpp
+	"SymbolTable.h"
+	<iostream>
+	<string>
+
+1704593756 source:c:\users\mariam\onedrive\documents\postfix_interpreter final version (2)\postfix_interpreter final version\postfix_interpreter\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"StackArray.h"
+
